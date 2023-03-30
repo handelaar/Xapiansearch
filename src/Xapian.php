@@ -1,5 +1,5 @@
 <?php
-require 'vendor/autoload.php
+require '../vendor/autoload.php';
 
 class Xapiansearch {
 	public function __construct() {
