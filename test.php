@@ -1,4 +1,4 @@
 <?php
 include('xapian.php');
 
-$test = new xapiansearch();
+$test = new literallyanynamespace\xapiansearch();
