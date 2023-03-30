@@ -1,0 +1,16 @@
+{
+    "name": "handelaar/xapiansearch",
+    "type": "library",
+    "license": "BSD-3-clause",
+    "autoload": {
+        "psr-4": {
+            "Handelaar\\Xapiansearch\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "John Handelaar"
+        }
+    ],
+    "require": {}
+}
